@@ -1,12 +1,12 @@
-
-- [Pré-requis à l'utilisation de Git Bash](#Pré-requis-à-l-utilisation-de-Git-Bash)
-  - [Les 3 langages Git Bash, qui nous utiliserons dans le terminal. Ici wt.exe (Windows terminal)](#Les-3-langages-Git-Bash,-qui-nous-utiliserons-dans-le-terminal.-Ici-wt.exe-(Windows-terminal))
-  - [Git Bash](#Git-Bash)
-  - [Le terminal](#Le-terminal)
-  - [Le Glossaire de Bash dans Git](#Le-Glossaire-de-Bash-dans-Git)
-  - [Le Glossaire de Git](#Le-Glossaire-de-Git)
-  - [Exemples concrèts (production) d'utilisation de Git](#Exemples-concrèts-(production)-d-utilisation-de-Git)
-# Pré-requis à l'utilisation de Git Bash
+### Table of Contents
+**[Pré-requis à l'utilisation de Git Bash](#pré-requis-à-lutilisation-de-git-bash)**<br>
+**[Les 3 langages Git Bash, qui nous utiliserons dans le terminal. Ici wt.exe (Windows terminal)](#les-3-langages-git-bash,-qui-nous-utiliserons-dans-le-terminal.-ici-wt.exe-(windows-terminal))**<br>
+**[Git Bash](#git-bash)**<br>
+**[Le terminal](#le-terminal)**<br>
+**[Le Glossaire de Bash dans Git](#le-glossaire-de-bash-dans-git)**<br>
+**[Le Glossaire de Git](#le-glossaire-de-git)**<br>
+**[Exemples concrèts (production) d'utilisation de Git](#exemples-concrèts-(production)-dutilisation-de-git)**<br>
+## Pré-requis à l'utilisation de Git Bash
 ## Les 3 langages Git Bash, qui nous utiliserons dans le terminal. Ici wt.exe (Windows terminal)
 
 ### 1/    Bash exemple:  `mkdir Nom_Du_Repertoire`
@@ -879,4 +879,4 @@ Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique
 
 ### des exemples de Git
 
-- 13-Jun-2022/9:32:17.595+2:00 JJ V
+- 27-Aug-2022/10:15:34.45+2:00 JJ V
