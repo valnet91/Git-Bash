@@ -1,8 +1,10 @@
 
 - [Pré-requis à l'utilisation de Git Bash](#pré-requis-à-lutilisation-de-git-bash)
-  - [Les 3 langages qui nous utiliserons](#les-3-langages-qui-nous-utiliserons)
+  - [Les 3 langages qui nous utiliserons dans le terminal Git Bash.](#les-3-langages-qui-nous-utiliserons-dans-le-terminal-git-bash)
   - [Le terminal](#le-terminal)
-  - [Le Glossaire](#le-glossaire)
+  - [Le Glossaire de Bash](#le-glossaire-de-bash)
+  - [Le Glossaire de Git](#le-glossaire-de-git)
+  - [Le Glossaire de GH](#le-glossaire-de-gh)
 - [Section 2](#section-2)
   - [Section 2.1](#section-21)
 - [Section 3](#section-3)
@@ -12,18 +14,20 @@
 
 
 # Pré-requis à l'utilisation de Git Bash
-## Les 3 langages qui nous utiliserons
-- 1/    Bash
-- 2/    Git
-- 3/    GH
+## Les 3 langages qui nous utiliserons dans le terminal Git Bash.
+- 1/    Bash exemple: `Mkdir Nom_Du_Repertoire`
+- 2/    Git exemple: `git commit -m "Message important du commit"`
+- 3/    GH exemple: `gh repo create  Nom_Du_Repertoire --public`
 ## Le terminal 
 - 1/ Git Bash
-## Le Glossaire
+## Le Glossaire de Bash
+## Le Glossaire de Git
 - **`git`**  Préfixe des commandes git
 - **`init`**  initialiser un dépot local (le client)
 
 - 2
 
+## Le Glossaire de GH
 
 # Section 2
 ## Section 2.1
