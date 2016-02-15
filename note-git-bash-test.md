@@ -1,43 +1,8 @@
-
-- [Pré-requis à l'utilisation de Git Bash](#pré-requis-à-lutilisation-de-git-bash)
-  - [Les 3 langages qui nous utiliserons dans le terminal Git Bash.](#les-3-langages-qui-nous-utiliserons-dans-le-terminal-git-bash)
-  - [Le terminal](#le-terminal)
-  - [Le Glossaire de Bash](#le-glossaire-de-bash)
-  - [Le Glossaire de Git](#le-glossaire-de-git)
-  - [Le Glossaire de GH](#le-glossaire-de-gh)
-- [Section 2](#section-2)
-  - [Section 2.1](#section-21)
-- [Section 3](#section-3)
-  - [Section 3.1](#section-31)
-  - [Features](#features)
-    - [Keyboard shortcuts](#keyboard-shortcuts)
-
-
-# Pré-requis à l'utilisation de Git Bash
-## Les 3 langages qui nous utiliserons dans le terminal Git Bash.
-- 1/    Bash exemple: `Mkdir Nom_Du_Repertoire`
-- 2/    Git exemple: `git commit -m "Message important du commit"`
-- 3/    GH exemple: `gh repo create  Nom_Du_Repertoire --public`
-## Le terminal 
-- 1/ Git Bash
-## Le Glossaire de Bash
-## Le Glossaire de Git
-- **`git`**  Préfixe des commandes git
-- **`init`**  initialiser un dépot local (le client)
-
-- 2
-
-## Le Glossaire de GH
-
-# Section 2
-## Section 2.1
-
-# Section 3
-## Section 3.1
-
-
-
-
-## Features
-
-### Keyboard shortcuts
+Fonction du 15 
+13:52:42
+Fonction du 16
+13:52:45
+Fonction du 17
+13:52:47
+Fonction du 18
+13:52:49
