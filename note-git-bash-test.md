@@ -4,3 +4,5 @@
 ## Les 3 langages qui nous utiliserons dans le terminal Git Bash.
 - [Le terminal](#Le terminal)
 ## Le terminal
+- [Le Glossaire de Bash](#Le Glossaire de Bash)
+## Le Glossaire de Bash
