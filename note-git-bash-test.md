@@ -6,3 +6,5 @@
 ## Le terminal
 - [Le Glossaire de Bash](#Le Glossaire de Bash)
 ## Le Glossaire de Bash
+- [Le Glossaire de Git](#Le Glossaire de Git)
+## Le Glossaire de Git
