@@ -5,4 +5,4 @@
 ## Le terminal
 ## Le Glossaire de Bash
 ## Le Glossaire de Git
-21-May-2022/11:56:52+2:00 21-May-2022/11:56:52.952+2:00
+21-May-2022/11:56:56+2:00 21-May-2022/11:56:56.96+2:00
