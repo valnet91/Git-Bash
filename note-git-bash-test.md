@@ -1,9 +1,9 @@
 
 - [Pré-requis à l'utilisation de Git Bash](#Pré-requis-à-l-utilisation-de-Git-Bash)
-	- [Les 3 langages qui nous utiliserons dans le terminal Git Bash.](#Les-3-langages-qui-nous-utiliserons-dans-le-terminal-Git-Bash.)
-	- [Le terminal](#Le-terminal)
-	- [Le Glossaire de Bash](#Le-Glossaire-de-Bash)
-	- [Le Glossaire de Git](#Le-Glossaire-de-Git)
+  - [Les 3 langages qui nous utiliserons dans le terminal Git Bash.](#Les-3-langages-qui-nous-utiliserons-dans-le-terminal-Git-Bash.)
+  - [Le terminal](#Le-terminal)
+  - [Le Glossaire de Bash](#Le-Glossaire-de-Bash)
+  - [Le Glossaire de Git](#Le-Glossaire-de-Git)
 # Pré-requis à l'utilisation de Git Bash
 ## Les 3 langages qui nous utiliserons dans le terminal Git Bash.
 - 1/    Bash exemple: `mkdir Nom_Du_Repertoire`
@@ -16,4 +16,6 @@
 ## Le Glossaire de Bash
 - Logiciel GNU
 ## Le Glossaire de Git
-- 21-May-2022/15:56:23+2:00 21-May-2022/15:56:23.32+2:00
+- **`git`**  Préfixe des commandes git
+- **`init`**  initialiser un dépot en local (le client)
+- 21-May-2022/16:07:58+2:00 21-May-2022/16:07:58.225+2:00
