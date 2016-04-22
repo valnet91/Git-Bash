@@ -18,4 +18,4 @@
 ## Le Glossaire de Git
 - **`git`**  Préfixe des commandes git
 - **`init`**  initialiser un dépot en local (le client)
-- 21-May-2022/16:08:26+2:00 21-May-2022/16:08:26.372+2:00
+- 21-May-2022/16:08:30+2:00 21-May-2022/16:08:30.366+2:00
