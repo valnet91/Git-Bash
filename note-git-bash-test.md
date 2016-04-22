@@ -16,4 +16,4 @@
 ## Le Glossaire de Bash
 - Logiciel GNU
 ## Le Glossaire de Git
-- 21-May-2022/15:51:46+2:00 21-May-2022/15:51:46.716+2:00
+- 21-May-2022/15:51:50+2:00 21-May-2022/15:51:50.721+2:00
