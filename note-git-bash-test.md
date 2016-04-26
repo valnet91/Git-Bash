@@ -6,18 +6,16 @@
   - [Le Glossaire de Git](#Le-Glossaire-de-Git)
 # Pré-requis à l'utilisation de Git Bash
 ## Les 3 langages qui nous utiliserons dans le terminal Git Bash.
-- 1/    Bash exemple: `mkdir Nom_Du_Repertoire`
-- 2/    Git exemple: `git commit -m "Message important du commit"`
-- 3/    GH exemple: `gh repo create  Nom_Du_Repertoire --public`
+- 1/    Bash exemple:  `mkdir Nom_Du_Repertoire`
+- 2/    Git exemple:  `git commit -m "Message important du commit"`
+- 3/    GH exemple:  `gh repo create  Nom_Du_Repertoire --public`
 ## Le terminal
-- 1/ Git Bash 1
-- 1/ Git Bash 2
-- 1/ Git Bash 3
+- 1/ Git Bash
+- 2/ Le terminal de Windows
 ## Le Glossaire de Bash
 - Logiciel GNU
 ## Le Glossaire de Git
 - **`git`**  Préfixe des commandes git
 - **`init`**  initialiser un dépot en local (le client)
-- 21-May-2022/16:08:50+2:00 21-May-2022/16:08:50.432+2:00
-
-![test](/terminal-windows-shell-git-bash.png)
+- **`add`**  ajoute vos fichiers à l'index de git en local (le client)
+- 21-May-2022/20:29:06+2:00 21-May-2022/20:29:06.776+2:00
