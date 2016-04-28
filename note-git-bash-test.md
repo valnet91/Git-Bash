@@ -18,4 +18,4 @@
 - **`git`**  Préfixe des commandes git
 - **`init`**  initialiser un dépot en local (le client)
 - **`add`**  ajoute vos fichiers à l'index de git en local (le client)
-- 21-May-2022/20:29:06+2:00 21-May-2022/20:29:06.776+2:00
+- 21-May-2022/20:29:10+2:00 21-May-2022/20:29:10.893+2:00
