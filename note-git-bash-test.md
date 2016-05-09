@@ -12,10 +12,12 @@
 ## Le terminal
 - 1/ Git Bash
 - 2/ Le terminal de Windows
+**`wt.exe`** Terminal Preview (test) & Windows Terminal (production)
 ## Le Glossaire de Bash
 - Logiciel GNU
 ## Le Glossaire de Git
 - **`git`**  Préfixe des commandes git
 - **`init`**  initialiser un dépot en local (le client)
 - **`add`**  ajoute vos fichiers à l'index de git en local (le client)
-- 21-May-2022/20:29:59+2:00 21-May-2022/20:29:59.083+2:00
+- **`commit`**  stage vos fichiers en local (le client) -m "Message de vos modifications"
+- 22-May-2022/12:48:54+2:00 22-May-2022/12:48:54.49+2:00
