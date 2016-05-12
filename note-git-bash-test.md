@@ -15,9 +15,11 @@
 **`wt.exe`** Terminal Preview (test) & Windows Terminal (production)
 ## Le Glossaire de Bash
 - Logiciel GNU
+- Commande : PWD
+```bash          $ pwd puis Entrée          ```          
 ## Le Glossaire de Git
 - **`git`**  Préfixe des commandes git
 - **`init`**  initialiser un dépot en local (le client)
 - **`add`**  ajoute vos fichiers à l'index de git en local (le client)
 - **`commit`**  stage vos fichiers en local (le client) -m "Message de vos modifications"
-- 22-May-2022/12:49:39+2:00 22-May-2022/12:49:39.782+2:00
+- 23-May-2022/10:09:24+2:00 23-May-2022/10:09:24.023+2:00
