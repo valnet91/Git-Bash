@@ -32,4 +32,4 @@
 - **`init`**  initialiser un dépot en local (le client)
 - **`add`**  ajoute vos fichiers à l'index de git en local (le client)
 - **`commit`**  stage vos fichiers en local (le client) -m "Message de vos modifications"
-- 23-May-2022/10:53:59+2:00 23-May-2022/10:53:59.423+2:00
+- 23-May-2022/10:54:02+2:00 23-May-2022/10:54:02.435+2:00
