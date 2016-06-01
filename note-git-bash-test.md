@@ -1,12 +1,12 @@
 
 - [Pré-requis à l'utilisation de Git Bash](#Pré-requis-à-l-utilisation-de-Git-Bash)
-  - [Les 3 langages qui nous utiliserons dans le terminal Git Bash.](#Les-3-langages-qui-nous-utiliserons-dans-le-terminal-Git-Bash.)
+  - [Les 3 langages Git Bash, qui nous utiliserons dans le terminal. Ici wt.exe (Windows terminal)](#Les-3-langages-Git-Bash,-qui-nous-utiliserons-dans-le-terminal.-Ici-wt.exe-(Windows-terminal))
   - [Git Bash](#Git-Bash)
   - [Le terminal](#Le-terminal)
   - [Le Glossaire de Bash dans Git](#Le-Glossaire-de-Bash-dans-Git)
   - [Le Glossaire de Git](#Le-Glossaire-de-Git)
 # Pré-requis à l'utilisation de Git Bash
-## Les 3 langages qui nous utiliserons dans le terminal Git Bash.
+## Les 3 langages Git Bash, qui nous utiliserons dans le terminal. Ici wt.exe (Windows terminal)
 
 ### 1/    Bash exemple:  `mkdir Nom_Du_Repertoire`
 
@@ -98,4 +98,4 @@ git add nom_du_fichier
 git commit -m "Votre message pour indiquer vos modifications à l'équipe.
 ```  
 
-- 23-May-2022/15:59:37.063+2:00JJ V
+- 23-May-2022/16:08:08.916+2:00JJ V
