@@ -98,4 +98,4 @@ git add nom_du_fichier
 git commit -m "Votre message pour indiquer vos modifications à l'équipe.
 ```  
 
-- 23-May-2022/16:08:12.032+2:00JJ V
+- 23-May-2022/16:08:15.054+2:00JJ V
