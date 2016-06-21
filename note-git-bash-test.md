@@ -98,4 +98,4 @@ Exemple: ```shell
 git commit -m "Votre message pour indiquer vos modifications à l'équipe.
 ```  
 
-- 23-May-2022/15:42:35+2:00 23-May-2022/15:42:35.225+2:00
+- 23-May-2022/15:42:38+2:00 23-May-2022/15:42:38.246+2:00
