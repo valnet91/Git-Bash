@@ -162,4 +162,4 @@ $ touch nom_du_fichier puis Entrée
 $ touch nom_du_fichier puis Entrée
 ```          
 
-- 23-May-2022/16:36:08.096+2:00JJ V
+- 23-May-2022/16:36:11.109+2:00JJ V
