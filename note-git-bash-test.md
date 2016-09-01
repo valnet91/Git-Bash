@@ -5,6 +5,7 @@
   - [Le terminal](#Le-terminal)
   - [Le Glossaire de Bash dans Git](#Le-Glossaire-de-Bash-dans-Git)
   - [Le Glossaire de Git](#Le-Glossaire-de-Git)
+  - [Exemples concrèts (production) d'utilisation de Git](#Exemples-concrèts-(production)-d-utilisation-de-Git)
 # Pré-requis à l'utilisation de Git Bash
 ## Les 3 langages Git Bash, qui nous utiliserons dans le terminal. Ici wt.exe (Windows terminal)
 
@@ -116,6 +117,34 @@ Création d'un fichier et insertion de "Votre Texte" Vous avez, également, la c
 
 > 😎 Utiliser ```>>``` pour ajouter (append) à la suite de "ancien texte", "votre texte", évite de supprimer les anciennes données. 
 
+### ✔ Commande : log
+
+```shell
+$ git log Entrée
+```          
+
+Affiche la liste de toutes les dernières actions faites pour git. (Attention la liste peut-être longue.)
+
+> pour sortir de cette commande taper : q, vous reviendrez au prompt (invite de commande) avec le symbole $, ainsi vous pourrez saisir une nouvelle commande.
+
+### ✔ Commande : log -10
+
+```shell
+$ git log -10 Entrée
+```          
+
+Affiche la liste des  10 dernières actions faites pour git. <br/>git log -5 pour les 5 dernières
+
+> flèche du bas  pour faire défiler les logs. `end` en bas du filement taper: q, pour revenir au prompt (invite de commande) $.
+
+### ✔ Commande : log -oneline
+
+```shell
+$ git log --oneline puis Entrée
+```          
+
+Affiche la liste de toutes les dernières actions (de façon simplifié) faites pour git, avec l'option  --oneline. (Attention la liste peut-être longue.)
+
 ### ✔ Commande : touch
 
 ```shell
@@ -134,34 +163,8 @@ $ touch nom_du_fichier puis Entrée
 $ touch nom_du_fichier puis Entrée
 ```          
 
-### ✔ Commande : touch
+## Exemples concrèts (production) d'utilisation de Git
 
-```shell
-$ touch nom_du_fichier puis Entrée
-```          
+### des exemples de Git
 
-### ✔ Commande : touch
-
-```shell
-$ touch nom_du_fichier puis Entrée
-```          
-
-### ✔ Commande : touch
-
-```shell
-$ touch nom_du_fichier puis Entrée
-```          
-
-### ✔ Commande : touch
-
-```shell
-$ touch nom_du_fichier puis Entrée
-```          
-
-### ✔ Commande : touch
-
-```shell
-$ touch nom_du_fichier puis Entrée
-```          
-
-- 23-May-2022/21:10:11.376+2:00JJ V
+- 24-May-2022/15:54:29.468+2:00JJ V
