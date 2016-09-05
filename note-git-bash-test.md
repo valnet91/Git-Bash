@@ -167,4 +167,4 @@ $ touch nom_du_fichier puis Entrée
 
 ### des exemples de Git
 
-- 24-May-2022/15:54:29.468+2:00JJ V
+- 24-May-2022/15:54:32.542+2:00JJ V
