@@ -114,7 +114,7 @@ $ echo "votre texte" > nom_du_fichier puis Entrée
 
 Création d'un fichier et insertion de "Votre Texte" Vous avez, également, la commande ```echo "votre texte" >> nom_du_fichier```
 
-> 😎 Utiliser ```>>``` pour ajouter (append)à la suite de ancien texte, votre texte, évite de supprimer les anciennes données. 
+> 😎 Utiliser ```>>``` pour ajouter (append) à la suite de "ancien texte", "votre texte", évite de supprimer les anciennes données. 
 
 ### ✔ Commande : touch
 
@@ -164,4 +164,4 @@ $ touch nom_du_fichier puis Entrée
 $ touch nom_du_fichier puis Entrée
 ```          
 
-- 23-May-2022/19:22:08.835+2:00JJ V
+- 23-May-2022/21:08:52.87+2:00JJ V
