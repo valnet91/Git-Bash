@@ -123,7 +123,7 @@ Création d'un fichier et insertion de "Votre Texte" Vous avez, également, la c
 $ git log Entrée
 ```          
 
-Affiche la liste de toutes les dernières actions faites pour git. (Attention la liste peut-être longue.)
+Affiche la liste de toutes les dernières actions faites (les commits) pour git. (Attention la liste peut-être longue.)
 
 > pour sortir de cette commande taper : q, vous reviendrez au prompt (invite de commande) avec le symbole $, ainsi vous pourrez saisir une nouvelle commande.
 
@@ -145,26 +145,38 @@ $ git log --oneline puis Entrée
 
 Affiche la liste de toutes les dernières actions (de façon simplifié) faites pour git, avec l'option  --oneline. (Attention la liste peut-être longue.)
 
-### ✔ Commande : touch
+### ✔ Commande : log -p nom_du_fichier
 
 ```shell
-$ touch nom_du_fichier puis Entrée
+$ git  log -p nom_du_fichier puis Entrée
 ```          
 
-### ✔ Commande : touch
+Affiche les modifications des 2 derniers commit sur nom_du_fichier. Historique des modifications.
+
+> Permet de voir rapidement les lignes modifiées.
+
+### ✔ Commande : log -p --oneline nom_du_fichier
 
 ```shell
-$ touch nom_du_fichier puis Entrée
+$ git  log -p --oneline nom_du_fichier puis Entrée
 ```          
 
-### ✔ Commande : touch
+Affiche les modifications des 2 derniers commit sur nom_du_fichier. Historique des modifications. --oneline réduit un peu la taille des infos en sortie
+
+> Permet de voir rapidement les lignes modifiées.
+
+### ✔ Commande : log -n1 -p --oneline nom_du_fichier
 
 ```shell
-$ touch nom_du_fichier puis Entrée
+$ git  log -n1 -p --oneline nom_du_fichier puis Entrée
 ```          
+
+Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique des modifications. --oneline réduit un peu la taille des infos en sortie
+
+> Permet de voir rapidement les lignes modifiées, sur le dernir commit car  `-n1` a été ajouté à notre ligne de commande.
 
 ## Exemples concrèts (production) d'utilisation de Git
 
 ### des exemples de Git
 
-- 24-May-2022/15:56:02.709+2:00JJ V
+- 25-May-2022/9:28:21.681+2:00JJ V
