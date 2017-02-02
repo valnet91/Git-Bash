@@ -175,8 +175,108 @@ Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique
 
 > Permet de voir rapidement les lignes modifiées, sur le dernir commit car  `-n1` a été ajouté à notre ligne de commande.
 
+### ✔ Commande : log -n1 -p --oneline nom_du_fichier
+
+```shell
+$ git  log -n1 -p --oneline nom_du_fichier puis Entrée
+```          
+
+Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique des modifications. --oneline réduit un peu la taille des infos en sortie
+
+> Permet de voir rapidement les lignes modifiées, sur le dernir commit car  `-n1` a été ajouté à notre ligne de commande.
+
+### ✔ Commande : log -n1 -p --oneline nom_du_fichier
+
+```shell
+$ git  log -n1 -p --oneline nom_du_fichier puis Entrée
+```          
+
+Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique des modifications. --oneline réduit un peu la taille des infos en sortie
+
+> Permet de voir rapidement les lignes modifiées, sur le dernir commit car  `-n1` a été ajouté à notre ligne de commande.
+
+### ✔ Commande : log -n1 -p --oneline nom_du_fichier
+
+```shell
+$ git  log -n1 -p --oneline nom_du_fichier puis Entrée
+```          
+
+Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique des modifications. --oneline réduit un peu la taille des infos en sortie
+
+> Permet de voir rapidement les lignes modifiées, sur le dernir commit car  `-n1` a été ajouté à notre ligne de commande.
+
+### ✔ Commande : log -n1 -p --oneline nom_du_fichier
+
+```shell
+$ git  log -n1 -p --oneline nom_du_fichier puis Entrée
+```          
+
+Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique des modifications. --oneline réduit un peu la taille des infos en sortie
+
+> Permet de voir rapidement les lignes modifiées, sur le dernir commit car  `-n1` a été ajouté à notre ligne de commande.
+
+### ✔ Commande : log -n1 -p --oneline nom_du_fichier
+
+```shell
+$ git  log -n1 -p --oneline nom_du_fichier puis Entrée
+```          
+
+Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique des modifications. --oneline réduit un peu la taille des infos en sortie
+
+> Permet de voir rapidement les lignes modifiées, sur le dernir commit car  `-n1` a été ajouté à notre ligne de commande.
+
+### ✔ Commande : log -n1 -p --oneline nom_du_fichier
+
+```shell
+$ git  log -n1 -p --oneline nom_du_fichier puis Entrée
+```          
+
+Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique des modifications. --oneline réduit un peu la taille des infos en sortie
+
+> Permet de voir rapidement les lignes modifiées, sur le dernir commit car  `-n1` a été ajouté à notre ligne de commande.
+
+### ✔ Commande : log -n1 -p --oneline nom_du_fichier
+
+```shell
+$ git  log -n1 -p --oneline nom_du_fichier puis Entrée
+```          
+
+Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique des modifications. --oneline réduit un peu la taille des infos en sortie
+
+> Permet de voir rapidement les lignes modifiées, sur le dernir commit car  `-n1` a été ajouté à notre ligne de commande.
+
+### ✔ Commande : log -n1 -p --oneline nom_du_fichier
+
+```shell
+$ git  log -n1 -p --oneline nom_du_fichier puis Entrée
+```          
+
+Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique des modifications. --oneline réduit un peu la taille des infos en sortie
+
+> Permet de voir rapidement les lignes modifiées, sur le dernir commit car  `-n1` a été ajouté à notre ligne de commande.
+
+### ✔ Commande : log -n1 -p --oneline nom_du_fichier
+
+```shell
+$ git  log -n1 -p --oneline nom_du_fichier puis Entrée
+```          
+
+Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique des modifications. --oneline réduit un peu la taille des infos en sortie
+
+> Permet de voir rapidement les lignes modifiées, sur le dernir commit car  `-n1` a été ajouté à notre ligne de commande.
+
+### ✔ Commande : log -n1 -p --oneline nom_du_fichier
+
+```shell
+$ git  log -n1 -p --oneline nom_du_fichier puis Entrée
+```          
+
+Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique des modifications. --oneline réduit un peu la taille des infos en sortie
+
+> Permet de voir rapidement les lignes modifiées, sur le dernir commit car  `-n1` a été ajouté à notre ligne de commande.
+
 ## Exemples concrèts (production) d'utilisation de Git
 
 ### des exemples de Git
 
-- 25-May-2022/10:15:26.099+2:00 JJ V
+- 25-May-2022/10:24:03.13+2:00 JJ V
