@@ -679,4 +679,4 @@ Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique
 
 ### des exemples de Git
 
-- 26-May-2022/10:50:51.281+2:00 JJ V
+- 26-May-2022/10:50:54.297+2:00 JJ V
