@@ -19,3 +19,5 @@
 - **`git`**  Préfixe des commandes git
 - **`init`**  initialiser un dépot en local (le client)
 - 21-May-2022/16:08:50+2:00 21-May-2022/16:08:50.432+2:00
+
+![test](/terminal-windows-shell-git-bash.png)
