@@ -16,6 +16,8 @@
 ### 2/ Le terminal de Windows
 **`wt.exe`** Terminal Preview (test) & Windows Terminal (production)
 
+ >toto >>
+
 ## Le Glossaire de Bash
 
 ### *<small> Logiciel GNU</small>* 
@@ -54,15 +56,31 @@ $ touch nom_du_fichier puis Entrée
 ### ✔ Commande :  git
 `git`  Préfixe des commandes git
 
+Exemple: ```shell
+ git --help   
+```  
+
 ### ✔ Commande :  init
 `init`  initialiser un dépot en local (le client)
+
+Exemple: ```shell
+ git init    
+```  
 
 ### ✔ Commande :  add
 `add`  ajoute vos fichiers à l'index de git en local (le client)
 
->> Avant d'utiliser cette commande vous pouvez faire un `git status` permet de voir si des modifications peuvent être `commit`
+Exemple: ```shell
+  fit add nom_du_fichier  
+```  
+
+>>>Avant d'utiliser cette commande vous pouvez faire un `git status` permet de voir si des modifications peuvent être `commit`
 
 ### ✔ Commande :  commit
 `commit`  stage vos fichiers en local (le client) -m "Message de vos modifications"
 
-- 23-May-2022/14:33:06+2:00 23-May-2022/14:33:06.6+2:00
+Exemple: ```shell
+ git commit -m "Votre message pour indiquer vos modifications à l'équipe. 
+```  
+
+- 23-May-2022/14:52:03+2:00 23-May-2022/14:52:03.014+2:00
