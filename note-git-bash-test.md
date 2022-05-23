@@ -7,60 +7,62 @@
 # Pré-requis à l'utilisation de Git Bash
 ## Les 3 langages qui nous utiliserons dans le terminal Git Bash.
 
-## 1/    Bash exemple:  `mkdir Nom_Du_Repertoire`
-## 2/    Git exemple:  `git commit -m \"Message important du commit\"`
-## 3/    GH exemple:  `gh repo create  Nom_Du_Repertoire --public`
+### 1/    Bash exemple:  `mkdir Nom_Du_Repertoire`
+### 2/    Git exemple:  `git commit -m \"Message important du commit\"`
+### 3/    GH exemple:  `gh repo create  Nom_Du_Repertoire --public`
 ## Le terminal
 
-## 1/ Git Bash
-## 2/ Le terminal de Windows
+### 1/ Git Bash
+### 2/ Le terminal de Windows
 **`wt.exe`** Terminal Preview (test) & Windows Terminal (production)
 
 ## Le Glossaire de Bash
 
-## *<small> Logiciel GNU</small>* 
-## ✔ Commande : pwd
+### *<small> Logiciel GNU</small>* 
+### ✔ Commande : pwd
 ```shell
 $ pwd puis Entrée
 ```          
 
-## ✔ Commande : ls
+### ✔ Commande : ls
 ```shell
 $ ls puis Entrée &ldsh;
 ```          
 
-## ✔ Commande : ls -ah
+### ✔ Commande : ls -ah
 ```shell
 $ ls -ah puis Entrée
 ```          
 
-## ✔ Commande : rm delete (shell)
+### ✔ Commande : rm delete (shell)
 ```shell
 $ rm -d nom_du_repertoire puis Entrée
 ```          
 
-## ✔ Commande : rm delete
+### ✔ Commande : rm delete
 ```shell
 $ rm -d nom_du_fichier puis Entrée
 ```          
 
-## ✔ Commande : touch
+### ✔ Commande : touch
 ```shell
 $ touch nom_du_fichier puis Entrée
 ```          
 
 ## Le Glossaire de Git
 
-## ✔ Commande :  git
+### ✔ Commande :  git
 `git`  Préfixe des commandes git
 
-## ✔ Commande :  init
+### ✔ Commande :  init
 `init`  initialiser un dépot en local (le client)
 
-## ✔ Commande :  add
+### ✔ Commande :  add
 `add`  ajoute vos fichiers à l'index de git en local (le client)
 
-## ✔ Commande :  commit
+`add`  ajoute vos fichiers à l'index de git en local (le client)
+
+### ✔ Commande :  commit
 `commit`  stage vos fichiers en local (le client) -m "Message de vos modifications"
 
-- 23-May-2022/14:26:46+2:00 23-May-2022/14:26:46.971+2:00
+- 23-May-2022/14:31:37+2:00 23-May-2022/14:31:37.332+2:00
