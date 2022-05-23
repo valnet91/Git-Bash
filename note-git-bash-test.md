@@ -76,15 +76,15 @@ $git --help
 
 `init`  initialiser un dépot en local (le client)
 
-Exemple: ```shell
-$git init    
+```shell
+$git init
 ```  
 
 ### ✔ Commande :  add
 
 `add`  ajoute vos fichiers à l'index de git en local (le client)
 
-Exemple: ```shell
+```shell
 git add nom_du_fichier
 ```  
 
@@ -98,4 +98,4 @@ git add nom_du_fichier
 git commit -m "Votre message pour indiquer vos modifications à l'équipe.
 ```  
 
-- 23-May-2022/15:52:08+2:00 23-May-2022/15:52:08.588+2:00
+- 23-May-2022/15:59:37.063+2:00JJ V
