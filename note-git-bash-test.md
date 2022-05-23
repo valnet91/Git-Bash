@@ -54,5 +54,7 @@ $ touch nom_du_fichier puis Entrée
 ## > `git`  Préfixe des commandes git
 ## **`init`**  initialiser un dépot en local (le client)
 ## **`add`**  ajoute vos fichiers à l'index de git en local (le client)
+> Avant d'utiliser cette commande vous pouvez faire un `git status` permet de voir si des modifications peuvent être `commit`
+
 ## **`commit`**  stage vos fichiers en local (le client) -m "Message de vos modifications"
-- 23-May-2022/12:56:55+2:00 23-May-2022/12:56:55.814+2:00
+- 23-May-2022/13:38:59+2:00 23-May-2022/13:38:59.034+2:00
