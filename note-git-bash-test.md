@@ -23,10 +23,14 @@ $ pwd puis Entrée
 ```bash
 $ ls puis Entrée
 ```          
-## Commande : ls -ah
-```bash<br> $ ls -ah puis Entrée<br>```          
-## Commande : rm delete
-```bash<br> $ rm -d nom_du_repertoire puis Entrée<br>```          
+## Commande : ls -ah (bash)
+```bash 
+$ ls -ah puis Entrée
+```          
+## Commande : rm delete (shell)
+```shell
+$ rm -d nom_du_repertoire puis Entrée
+```          
 ## Commande : rm delete
 ```bash<br> $ rm -d nom_du_fichier puis Entrée<br>```          
 ## Commande : touch
@@ -36,4 +40,4 @@ $ ls puis Entrée
 ## **`init`**  initialiser un dépot en local (le client)
 ## **`add`**  ajoute vos fichiers à l'index de git en local (le client)
 ## **`commit`**  stage vos fichiers en local (le client) -m "Message de vos modifications"
-- 23-May-2022/12:17:43+2:00 23-May-2022/12:17:43.214+2:00
+- 23-May-2022/12:21:36+2:00 23-May-2022/12:21:36.723+2:00
