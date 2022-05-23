@@ -18,7 +18,7 @@
 
 ## Le Glossaire de Bash
 
-## <small> *Logiciel GNU* </small>
+## *<small> Logiciel GNU</small>* 
 ## ✔ Commande : pwd
 ```shell
 $ pwd puis Entrée
@@ -31,7 +31,7 @@ $ ls puis Entrée &ldsh;
 
 ## ✔ Commande : ls -ah
 ```shell
-$ ls -ah puis Entrée &#8626;
+$ ls -ah puis Entrée
 ```          
 
 ## ✔ Commande : rm delete (shell)
@@ -51,10 +51,16 @@ $ touch nom_du_fichier puis Entrée
 
 ## Le Glossaire de Git
 
-## `git`  Préfixe des commandes git
-## `init`  initialiser un dépot en local (le client)
-## `**add**`  ajoute vos fichiers à l'index de git en local (le client)
-> Avant d'utiliser cette commande vous pouvez faire un `git status` permet de voir si des modifications peuvent être `commit`
+## ✔ Commande :  git
+`git`  Préfixe des commandes git
 
-## `commit`  stage vos fichiers en local (le client) -m "Message de vos modifications"
-- 23-May-2022/13:58:10+2:00 23-May-2022/13:58:10.884+2:00
+## ✔ Commande :  init
+`init`  initialiser un dépot en local (le client)
+
+## ✔ Commande :  add
+`add`  ajoute vos fichiers à l'index de git en local (le client)
+
+## ✔ Commande :  commit
+`commit`  stage vos fichiers en local (le client) -m "Message de vos modifications"
+
+- 23-May-2022/14:26:46+2:00 23-May-2022/14:26:46.971+2:00
