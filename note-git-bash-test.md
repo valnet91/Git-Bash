@@ -18,7 +18,7 @@
 
 ## Le Glossaire de Bash
 
-## Logiciel GNU
+## ###Logiciel GNU
 ## ✔ Commande : pwd
 ```shell
 $ pwd puis Entrée
@@ -51,10 +51,10 @@ $ touch nom_du_fichier puis Entrée
 
 ## Le Glossaire de Git
 
-## > `git`  Préfixe des commandes git
-## **`init`**  initialiser un dépot en local (le client)
-## **`add`**  ajoute vos fichiers à l'index de git en local (le client)
+## `git`  Préfixe des commandes git
+## `init`  initialiser un dépot en local (le client)
+## `**add**`  ajoute vos fichiers à l'index de git en local (le client)
 > Avant d'utiliser cette commande vous pouvez faire un `git status` permet de voir si des modifications peuvent être `commit`
 
-## **`commit`**  stage vos fichiers en local (le client) -m "Message de vos modifications"
-- 23-May-2022/13:38:59+2:00 23-May-2022/13:38:59.034+2:00
+## `commit`  stage vos fichiers en local (le client) -m "Message de vos modifications"
+- 23-May-2022/13:46:14+2:00 23-May-2022/13:46:14.656+2:00
