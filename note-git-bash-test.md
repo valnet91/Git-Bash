@@ -60,9 +60,9 @@ $ touch nom_du_fichier puis Entrée
 ### ✔ Commande :  add
 `add`  ajoute vos fichiers à l'index de git en local (le client)
 
-`add`  ajoute vos fichiers à l'index de git en local (le client)
+>> Avant d'utiliser cette commande vous pouvez faire un `git status` permet de voir si des modifications peuvent être `commit`
 
 ### ✔ Commande :  commit
 `commit`  stage vos fichiers en local (le client) -m "Message de vos modifications"
 
-- 23-May-2022/14:31:37+2:00 23-May-2022/14:31:37.332+2:00
+- 23-May-2022/14:33:06+2:00 23-May-2022/14:33:06.6+2:00
