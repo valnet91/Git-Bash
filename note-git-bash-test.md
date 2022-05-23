@@ -35,7 +35,7 @@ $ pwd puis Entrée
 ### ✔ Commande : ls
 
 ```shell
-$ ls puis Entrée &ldsh;
+$ ls puis Entrée
 ```          
 
 ### ✔ Commande : ls -ah
@@ -68,8 +68,8 @@ $ touch nom_du_fichier puis Entrée
 
 `git`  Préfixe des commandes git
 
-Exemple: ```shell
-git --help
+```shell
+$git --help
 ```  
 
 ### ✔ Commande :  init
@@ -77,7 +77,7 @@ git --help
 `init`  initialiser un dépot en local (le client)
 
 Exemple: ```shell
- git init    
+$git init    
 ```  
 
 ### ✔ Commande :  add
@@ -94,8 +94,8 @@ git add nom_du_fichier
 
 `commit`  stage vos fichiers en local (le client) -m "Message de vos modifications"
 
-Exemple: ```shell
+```shell
 git commit -m "Votre message pour indiquer vos modifications à l'équipe.
 ```  
 
-- 23-May-2022/15:43:02+2:00 23-May-2022/15:43:02.342+2:00
+- 23-May-2022/15:52:08+2:00 23-May-2022/15:52:08.588+2:00
