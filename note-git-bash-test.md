@@ -6,38 +6,53 @@
   - [Le Glossaire de Git](#Le-Glossaire-de-Git)
 # Pré-requis à l'utilisation de Git Bash
 ## Les 3 langages qui nous utiliserons dans le terminal Git Bash.
+
 ## 1/    Bash exemple:  `mkdir Nom_Du_Repertoire`
 ## 2/    Git exemple:  `git commit -m "Message important du commit"`
 ## 3/    GH exemple:  `gh repo create  Nom_Du_Repertoire --public`
 ## Le terminal
+
 ## 1/ Git Bash
 ## 2/ Le terminal de Windows
 **`wt.exe`** Terminal Preview (test) & Windows Terminal (production)
+
 ## Le Glossaire de Bash
+
 ## Logiciel GNU
 ## Commande : pwd
-```bash
+```shell
 $ pwd puis Entrée
 ```          
+
 ## Commande : ls
-```bash
-$ ls puis Entrée
+```shell
+$ ls puis Entrée &ldsh;
 ```          
-## Commande : ls -ah (bash)
-```bash 
-$ ls -ah puis Entrée
+
+## Commande : ls -ah (bash espace &ldsh;)
+```shell
+$ ls -ah puis Entrée&ldsh;
 ```          
+
 ## Commande : rm delete (shell)
 ```shell
 $ rm -d nom_du_repertoire puis Entrée
 ```          
+
 ## Commande : rm delete
-```bash<br> $ rm -d nom_du_fichier puis Entrée<br>```          
-## Commande : touch
-```shell<br> $ touch nom_du_fichier puis Entrée<br>```          
+```shell
+$ rm -d nom_du_fichier puis Entrée
+```          
+
+## ✔Commande : touch
+```shell
+$ touch nom_du_fichier puis Entrée
+```          
+
 ## Le Glossaire de Git
+
 ## **`git`**  Préfixe des commandes git
 ## **`init`**  initialiser un dépot en local (le client)
 ## **`add`**  ajoute vos fichiers à l'index de git en local (le client)
 ## **`commit`**  stage vos fichiers en local (le client) -m "Message de vos modifications"
-- 23-May-2022/12:21:36+2:00 23-May-2022/12:21:36.723+2:00
+- 23-May-2022/12:45:59+2:00 23-May-2022/12:45:59.439+2:00
