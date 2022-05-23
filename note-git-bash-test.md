@@ -8,7 +8,7 @@
 ## Les 3 langages qui nous utiliserons dans le terminal Git Bash.
 
 ## 1/    Bash exemple:  `mkdir Nom_Du_Repertoire`
-## 2/    Git exemple:  `git commit -m "Message important du commit"`
+## 2/    Git exemple:  `git commit -m \"Message important du commit\"`
 ## 3/    GH exemple:  `gh repo create  Nom_Du_Repertoire --public`
 ## Le terminal
 
@@ -18,7 +18,7 @@
 
 ## Le Glossaire de Bash
 
-## ###Logiciel GNU
+## <small> *Logiciel GNU* </small>
 ## ✔ Commande : pwd
 ```shell
 $ pwd puis Entrée
@@ -29,9 +29,9 @@ $ pwd puis Entrée
 $ ls puis Entrée &ldsh;
 ```          
 
-## ✔ Commande : ls -ah (bash espace NO&ldsh; HTML ENTITY <br/>Essai HTML CODE &#8626;)
+## ✔ Commande : ls -ah
 ```shell
-$ ls -ah puis Entrée&#8626;
+$ ls -ah puis Entrée &#8626;
 ```          
 
 ## ✔ Commande : rm delete (shell)
@@ -57,4 +57,4 @@ $ touch nom_du_fichier puis Entrée
 > Avant d'utiliser cette commande vous pouvez faire un `git status` permet de voir si des modifications peuvent être `commit`
 
 ## `commit`  stage vos fichiers en local (le client) -m "Message de vos modifications"
-- 23-May-2022/13:46:14+2:00 23-May-2022/13:46:14.656+2:00
+- 23-May-2022/13:58:10+2:00 23-May-2022/13:58:10.884+2:00
