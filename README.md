@@ -1,6 +1,6 @@
 <!-- GENERE depuis base.csv par Prog_Main_B.r -- NE PAS EDITER A LA MAIN -->
 ---
-canonical: https://alchimiste-ia.com/Git-Bash
+canonical: https://alchimiste-ia.com
 author: Jean-Jacques Valognes
 publisher: Alchimiste-IA
 rna: W912007379
